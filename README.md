@@ -18,3 +18,12 @@
 - Run the application 
 
   `ng serve`
+
+
+
+
+For running the application you have to write 2 commands in different 2 command promt:
+1st:  "json-server --watch db.json" 
+2nd:  "ng serve"
+
+It will run Properly
